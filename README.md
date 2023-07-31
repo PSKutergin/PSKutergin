@@ -2,6 +2,14 @@
   <img src="https://media.giphy.com/media/wXTlDKOY0dFSfWU5cS/giphy.gif" width="200"/>
   <img src="https://media.giphy.com/media/TmPb7vBn0bdJ9TMEhi/giphy.gif" width="200"/>
 </div>
+<div id="badges">
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="your-telegram-URL">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+</div>
 
 ### Hi there 👋
 

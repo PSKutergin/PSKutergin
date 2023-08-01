@@ -43,6 +43,7 @@ Here are some ideas to get you started:
     <img src="https://skillicons.dev/icons?i=css"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
     <img src="https://skillicons.dev/icons?i=js" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
     <img src="https://skillicons.dev/icons?i=vue" title="Vue" alt="Vue" width="40" height="40"/>&nbsp;
+    <img src="https://skillicons.dev/icons?i=jquery" title="jQuery" alt="jQuery" width="40" height="40"/>&nbsp;
     <img src="https://skillicons.dev/icons?i=ts" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
     <img src="https://skillicons.dev/icons?i=bootstrap" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
     <img src="https://skillicons.dev/icons?i=react" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -82,8 +83,10 @@ Here are some ideas to get you started:
     <img src="https://skillicons.dev/icons?i=git" title="Git" alt="Git" width="40" height="40"/>&nbsp;
     <img src="https://skillicons.dev/icons?i=github" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
     <img src="https://skillicons.dev/icons?i=gitlab" title="GitLab" alt="GitLab" width="40" height="40"/>&nbsp;
+    <img src="https://skillicons.dev/icons?i=githubactions" title="GitHubActions" alt="GitHubActions" width="40" height="40"/>&nbsp;
     <img src="https://skillicons.dev/icons?i=gulp" title="Gulp" alt="Gulp" width="40" height="40"/>&nbsp;
     <img src="https://raw.githubusercontent.com/github/explore/71e4a0fc524fd1d7a0d9a940aa6b91f31458a87b/topics/vba/vba.png" title="VBA" alt="VBA" width="40" height="40"/>&nbsp;
+    <img src="https://skillicons.dev/icons?i=lua" title="LUA" alt="LUA" width="40" height="40"/>&nbsp;
   </div>
 </div>
 

@@ -1,17 +1,23 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/wXTlDKOY0dFSfWU5cS/giphy.gif" width="200"/>
-  <img src="https://media.giphy.com/media/TmPb7vBn0bdJ9TMEhi/giphy.gif" width="200"/>
+<!--   <img src="https://media.giphy.com/media/TmPb7vBn0bdJ9TMEhi/giphy.gif" width="200"/> -->
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/pavel-kutergin">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://t.me/p_kutergin">
+      <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+    </a>
+  </div>
+  <img src="https://komarev.com/ghpvc/?username=PSKutergin&style=flat-square&color=blue" alt=""/>
+  <h1>
+    hey there
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1>
 </div>
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/pavel-kutergin">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://t.me/p_kutergin">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
-  </a>
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-
-### Hi there 👋
 
 <!--
 **PSKutergin/PSKutergin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

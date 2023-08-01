@@ -36,6 +36,58 @@ Here are some ideas to get you started:
 
 ---
 
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <div>
+    <img src="https://skillicons.dev/icons?i=html" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+    <img src="https://skillicons.dev/icons?i=css"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+    <img src="https://skillicons.dev/icons?i=js" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+    <img src="https://skillicons.dev/icons?i=vue" title="Vue" alt="Vue" width="40" height="40"/>&nbsp;
+    <img src="https://skillicons.dev/icons?i=ts" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
+    <img src="https://skillicons.dev/icons?i=bootstrap" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
+    <img src="https://skillicons.dev/icons?i=react" title="react" alt="react" width="40" height="40"/>&nbsp;
+    <img src="https://skillicons.dev/icons?i=nextjs" title="nextjs" alt="nextjs" width="40" height="40"/>&nbsp;
+    <img src="https://skillicons.dev/icons?i=nodejs" title="nodejs" alt="nodejs" width="40" height="40"/>&nbsp;
+    <img src="https://skillicons.dev/icons?i=swift" title="swift" alt="swift" width="40" height="40"/>&nbsp;
+  </div>
+  <div>
+    <img src="https://skillicons.dev/icons?i=docker" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+    <img src="https://skillicons.dev/icons?i=kubernetes" title="Kubernetes" alt="Kubernetes" width="40" height="40"/>&nbsp;
+    <img src="https://skillicons.dev/icons?i=py" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+    <img src="https://skillicons.dev/icons?i=pytorch" title="PyTorch" alt="PyTorch" width="40" height="40"/>&nbsp;
+    <img src="https://skillicons.dev/icons?i=django" title="Django" alt="Django" width="40" height="40"/>&nbsp;
+    <img src="https://skillicons.dev/icons?i=flask" title="Flask" alt="Flask" width="40" height="40"/>&nbsp;
+    <img src="https://skillicons.dev/icons?i=selenium" title="Selenium" alt="Selenium" width="40" height="40"/>&nbsp;
+    <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/apache_spark_logo_icon_170560.png" title="spark" alt="spark" width="40" height="40"/>&nbsp;
+    <img src="https://skillicons.dev/icons?i=r" title="R" alt="R" width="40" height="40"/>&nbsp;
+    <img src="https://raw.githubusercontent.com/github/explore/71e4a0fc524fd1d7a0d9a940aa6b91f31458a87b/topics/vba/vba.png" title="VBA" alt="VBA" width="40" height="40"/>&nbsp;
+  </div>
+  <div>
+    <img src="https://skillicons.dev/icons?i=firebase" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+    <img src="https://skillicons.dev/icons?i=postgres" title="postgres" alt="postgres" width="40" height="40"/>&nbsp;
+    <img src="https://skillicons.dev/icons?i=mysql" title="mysql" alt="mysql" width="40" height="40"/>&nbsp;
+    <img src="https://skillicons.dev/icons?i=sqlite" title="sqlite" alt="sqlite" width="40" height="40"/>&nbsp;
+    <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/apache_hadoop_logo_icon_169586.png" title="hadoop" alt="hadoop" width="40" height="40"/>&nbsp;
+    <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/apache_hive_logo_icon_167867.png" title="Hive" alt="Hive" width="40" height="40"/>&nbsp;
+    <img src="https://skillicons.dev/icons?i=mongodb" title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp;
+  </div>
+  <div>
+    <img src="https://www.pngmart.com/files/23/Power-Bi-Logo-PNG-File.png" title="PowerBI" alt="PowerBI" width="40" height="40"/>&nbsp;
+    <img src="https://nextviewconsulting.com/sites/default/files/styles/large/public/icons/logo-tableau-cirkel.png" title="Tableau" alt="Tableau" width="40" height="40"/>&nbsp;
+    <img src="https://asset.brandfetch.io/idmq1uuJbI/idWlbrYIGU.svg" title="Redash" alt="Redash" width="40" height="40"/>&nbsp;
+    <img src="https://asset.brandfetch.io/idbyoKq4tZ/idvwpDn6Co.png" title="Matplotlib" alt="Matplotlib" width="40" height="40"/>&nbsp;
+    <img src="https://asset.brandfetch.io/idwPNp71Xw/id642wtAgP.jpeg" title="Plotly" alt="Plotly" width="40" height="40"/>&nbsp;
+  </div>
+  <div>
+    <img src="https://skillicons.dev/icons?i=git" title="git" alt="git" width="40" height="40"/>&nbsp;
+    <img src="https://skillicons.dev/icons?i=github" title="github" alt="github" width="40" height="40"/>&nbsp;
+    <img src="https://skillicons.dev/icons?i=gitlab" title="gitlab" alt="gitlab" width="40" height="40"/>&nbsp;
+    <img src="https://skillicons.dev/icons?i=gulp" title="gulp" alt="gulp" width="40" height="40"/>&nbsp;
+  </div>
+</div>
+
+---
+
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=PSKutergin&theme=dark&background=000000)](https://git.io/streak-stats)
 <br/>

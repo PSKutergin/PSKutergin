@@ -70,7 +70,6 @@ Here are some ideas to get you started:
     <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/apache_hadoop_logo_icon_169586.png" title="Hadoop" alt="Hadoop" width="40" height="40"/>&nbsp;
     <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/apache_hive_logo_icon_167867.png" title="Hive" alt="Hive" width="40" height="40"/>&nbsp;
     <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
-    <img src="https://raw.githubusercontent.com/github/explore/71e4a0fc524fd1d7a0d9a940aa6b91f31458a87b/topics/vba/vba.png" title="VBA" alt="VBA" width="40" height="40"/>&nbsp;
   </div>
   <div>
     <img src="https://www.pngmart.com/files/23/Power-Bi-Logo-PNG-File.png" title="PowerBI" alt="PowerBI" width="40" height="40"/>&nbsp;
@@ -84,6 +83,7 @@ Here are some ideas to get you started:
     <img src="https://skillicons.dev/icons?i=github" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
     <img src="https://skillicons.dev/icons?i=gitlab" title="GitLab" alt="GitLab" width="40" height="40"/>&nbsp;
     <img src="https://skillicons.dev/icons?i=gulp" title="Gulp" alt="Gulp" width="40" height="40"/>&nbsp;
+    <img src="https://raw.githubusercontent.com/github/explore/71e4a0fc524fd1d7a0d9a940aa6b91f31458a87b/topics/vba/vba.png" title="VBA" alt="VBA" width="40" height="40"/>&nbsp;
   </div>
 </div>
 

@@ -55,13 +55,14 @@ Here are some ideas to get you started:
     <img src="https://skillicons.dev/icons?i=docker" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
     <img src="https://skillicons.dev/icons?i=kubernetes" title="Kubernetes" alt="Kubernetes" width="40" height="40"/>&nbsp;
     <img src="https://skillicons.dev/icons?i=py" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-    <img src="https://skillicons.dev/icons?i=pytorch" title="PyTorch" alt="PyTorch" width="40" height="40"/>&nbsp;
     <img src="https://skillicons.dev/icons?i=django" title="Django" alt="Django" width="40" height="40"/>&nbsp;
     <img src="https://skillicons.dev/icons?i=flask" title="Flask" alt="Flask" width="40" height="40"/>&nbsp;
     <img src="https://skillicons.dev/icons?i=selenium" title="Selenium" alt="Selenium" width="40" height="40"/>&nbsp;
     <img src="https://static-00.iconduck.com/assets.00/airflow-icon-512x512-tpr318yf.png" title="Airflow" alt="Airflow" width="40" height="40"/>&nbsp;
     <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/apache_spark_logo_icon_170560.png" title="Spark" alt="Spark" width="40" height="40"/>&nbsp;
     <img src="https://skillicons.dev/icons?i=r" title="R" alt="R" width="40" height="40"/>&nbsp;
+    <img src="https://raw.githubusercontent.com/github/explore/71e4a0fc524fd1d7a0d9a940aa6b91f31458a87b/topics/vba/vba.png" title="VBA" alt="VBA" width="40" height="40"/>&nbsp;
+    <img src="https://skillicons.dev/icons?i=lua" title="LUA" alt="LUA" width="40" height="40"/>&nbsp;
   </div>
   <div>
     <img src="https://skillicons.dev/icons?i=firebase" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
@@ -85,8 +86,6 @@ Here are some ideas to get you started:
     <img src="https://skillicons.dev/icons?i=gitlab" title="GitLab" alt="GitLab" width="40" height="40"/>&nbsp;
     <img src="https://skillicons.dev/icons?i=githubactions" title="GitHubActions" alt="GitHubActions" width="40" height="40"/>&nbsp;
     <img src="https://skillicons.dev/icons?i=gulp" title="Gulp" alt="Gulp" width="40" height="40"/>&nbsp;
-    <img src="https://raw.githubusercontent.com/github/explore/71e4a0fc524fd1d7a0d9a940aa6b91f31458a87b/topics/vba/vba.png" title="VBA" alt="VBA" width="40" height="40"/>&nbsp;
-    <img src="https://skillicons.dev/icons?i=lua" title="LUA" alt="LUA" width="40" height="40"/>&nbsp;
   </div>
 </div>
 

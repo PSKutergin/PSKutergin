@@ -43,6 +43,7 @@ Here are some ideas to get you started:
     <img src="https://skillicons.dev/icons?i=css"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
     <img src="https://skillicons.dev/icons?i=js" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
     <img src="https://skillicons.dev/icons?i=vue" title="Vue" alt="Vue" width="40" height="40"/>&nbsp;
+    <img src="https://skillicons.dev/icons?i=angular" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
     <img src="https://skillicons.dev/icons?i=jquery" title="jQuery" alt="jQuery" width="40" height="40"/>&nbsp;
     <img src="https://skillicons.dev/icons?i=ts" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
     <img src="https://skillicons.dev/icons?i=bootstrap" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;

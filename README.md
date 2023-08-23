@@ -1,22 +1,8 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/wXTlDKOY0dFSfWU5cS/giphy.gif" width="200"/>
-<!--   <img src="https://media.giphy.com/media/TmPb7vBn0bdJ9TMEhi/giphy.gif" width="200"/> -->
-  <div id="badges">
-    <a href="https://www.linkedin.com/in/pavel-kutergin">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="https://t.me/p_kutergin">
-      <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
-    </a>
+  <div align="center">
+    <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
   </div>
   <img src="https://komarev.com/ghpvc/?username=PSKutergin&style=flat-square&color=blue" alt=""/>
-  <h1>
-    hey there
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
-</div>
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
 <!--
@@ -35,6 +21,17 @@ Here are some ideas to get you started:
 -->
 
 ---
+
+### My project
+
++ [Ozon](https://pskutergin.github.io/OzonClone/) - аналог маркетплейса OZON (в работе!) </br>
++ [Burgers (Angular)](https://pskutergin.github.io/burgers/) - мой первый учебный проект на Angular </br>
++ [Anime](https://pskutergin.github.io/Anime/) - магазин фильмов аниме </br>
++ [Mini game Reaction](https://pskutergin.github.io/AIM_Game/) - мини-игра на реакцию (JS) </br>
++ [Mini game Colors](https://pskutergin.github.io/Mini_game/) - мини-игра "Разноцветная доска" (JS) </br>
++ [Calculator iPhone](https://pskutergin.github.io/iPhone_Calc/) - калькулятор iPhone (JS) </br>
++ [Slider images](https://pskutergin.github.io/Slider_img/) - простой слайдер с футболистами </br>
++ [Avto cards](https://pskutergin.github.io/Cards/) - карточки с автомобилями </br>
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -96,3 +93,13 @@ Here are some ideas to get you started:
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=PSKutergin&theme=dark&background=000000)](https://git.io/streak-stats)
 <br/> -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PSKutergin&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+### Contacts:
+<div id="badges">
+  <a href="https://www.linkedin.com/in/pavel-kutergin">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://t.me/p_kutergin">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+</div>

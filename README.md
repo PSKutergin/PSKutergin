@@ -24,7 +24,6 @@ Here are some ideas to get you started:
 
 ### My project
 
-+ [Ozon](https://pskutergin.github.io/OzonClone/) - аналог маркетплейса OZON (в работе!) </br>
 + [Burgers (Angular)](https://pskutergin.github.io/burgers/) - мой первый учебный проект на Angular </br>
 + [Anime](https://pskutergin.github.io/Anime/) - магазин фильмов аниме </br>
 + [Mini game Reaction](https://pskutergin.github.io/AIM_Game/) - мини-игра на реакцию (JS) </br>

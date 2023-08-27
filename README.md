@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 ### My project
 
-+ [Burgers (Angular)](https://pskutergin.github.io/burgers/) - мой первый учебный проект на Angular </br>
++ [Burgers (Angular)](https://pskutergin.github.io/burgers/) - учебный проект на Angular </br>
 + [Anime](https://pskutergin.github.io/Anime/) - магазин фильмов аниме </br>
 + [Mini game Reaction](https://pskutergin.github.io/AIM_Game/) - мини-игра на реакцию (JS) </br>
 + [Mini game Colors](https://pskutergin.github.io/Mini_game/) - мини-игра "Разноцветная доска" (JS) </br>

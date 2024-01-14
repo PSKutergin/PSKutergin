@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 ### My project
 
-+ [Sneakers/](https://pskutergin.github.io/vue-sneakers/) - интернет-магазин кроссовок на <img src="https://skillicons.dev/icons?i=vue" title="Vue" alt="Vue" width="20" height="20"/>&nbsp; </br>
++ [Sneakers Store](https://pskutergin.github.io/vue-sneakers/) - интернет-магазин кроссовок на <img src="https://skillicons.dev/icons?i=vue" title="Vue" alt="Vue" width="20" height="20"/>&nbsp; </br>
 + [Delivery](https://pskutergin.github.io/vue-delivery/) - сайт доставки на <img src="https://skillicons.dev/icons?i=vue" title="Vue" alt="Vue" width="20" height="20"/>&nbsp; </br>
 + [RelaxLive](https://pskutergin.github.io/RelaxLive/) - сайт строительных услуг с админкой </br>
 + [Yoga studio](https://pskutergin.github.io/soulYoga/) - лендинг с использованием <img src="https://skillicons.dev/icons?i=sass" title="Sass" alt="Sass" width="20" height="20"/> и <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/grunt_original_logo_icon_146488.png" title="Grunt" alt="Grunt" width="20" height="20"/> </br>
